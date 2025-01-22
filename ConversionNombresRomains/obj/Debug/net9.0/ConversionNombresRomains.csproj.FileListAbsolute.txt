@@ -1,0 +1,14 @@
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\bin\Debug\net9.0\ConversionNombresRomains.exe
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\bin\Debug\net9.0\ConversionNombresRomains.deps.json
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\bin\Debug\net9.0\ConversionNombresRomains.runtimeconfig.json
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\bin\Debug\net9.0\ConversionNombresRomains.dll
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\bin\Debug\net9.0\ConversionNombresRomains.pdb
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.AssemblyInfoInputs.cache
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.AssemblyInfo.cs
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.csproj.CoreCompileInputs.cache
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.dll
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\refint\ConversionNombresRomains.dll
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.pdb
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.genruntimeconfig.cache
+c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ref\ConversionNombresRomains.dll

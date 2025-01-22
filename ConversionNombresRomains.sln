@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionNombresRomains", "ConversionNombresRomains\ConversionNombresRomains.csproj", "{31755305-E523-4658-B1D5-22A19B2997CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionNombresRomains.Tests", "ConversionNombresRomains.Tests\ConversionNombresRomains.Tests.csproj", "{B470026C-E363-45FE-8EE6-2191155C302A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31755305-E523-4658-B1D5-22A19B2997CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31755305-E523-4658-B1D5-22A19B2997CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31755305-E523-4658-B1D5-22A19B2997CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31755305-E523-4658-B1D5-22A19B2997CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B470026C-E363-45FE-8EE6-2191155C302A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B470026C-E363-45FE-8EE6-2191155C302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B470026C-E363-45FE-8EE6-2191155C302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B470026C-E363-45FE-8EE6-2191155C302A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
