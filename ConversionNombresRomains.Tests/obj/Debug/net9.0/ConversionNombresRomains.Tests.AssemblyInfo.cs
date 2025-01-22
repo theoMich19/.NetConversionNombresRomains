@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversionNombresRomains.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14294f0937948b5e054dc94ada9c32575ded5f14")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversionNombresRomains.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversionNombresRomains.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

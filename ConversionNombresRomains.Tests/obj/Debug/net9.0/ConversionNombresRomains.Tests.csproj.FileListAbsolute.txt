@@ -101,3 +101,4 @@ c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains.Test
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains.Tests\obj\Debug\net9.0\ConversionNombresRomains.Tests.pdb
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains.Tests\obj\Debug\net9.0\ConversionNombresRomains.Tests.genruntimeconfig.cache
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains.Tests\obj\Debug\net9.0\ref\ConversionNombresRomains.Tests.dll
+C:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains.Tests\obj\Debug\net9.0\ConversionNombresRomains.Tests.sourcelink.json

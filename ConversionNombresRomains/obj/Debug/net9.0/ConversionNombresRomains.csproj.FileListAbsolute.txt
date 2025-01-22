@@ -12,3 +12,4 @@ c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.pdb
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.genruntimeconfig.cache
 c:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ref\ConversionNombresRomains.dll
+C:\Users\theom\git\dotNet\ConversionNombresRomains\ConversionNombresRomains\obj\Debug\net9.0\ConversionNombresRomains.sourcelink.json
